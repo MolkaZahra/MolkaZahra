@@ -1,6 +1,6 @@
 # 💻 Molka Zahra - Junior Data Science Engineer 
 
-![Header](./A_futuristic_and_modern_tech-themed_GitHub_banner_.png)
+![Sticker](https://media.giphy.com/media/l4FGBY9wQwNb3Jmru/giphy.gif)
 
 🌍 **Bienvenue sur mon GitHub !**  
 Je suis une **ingénieure en Data Science** passionnée par l'intelligence artificielle, le Machine Learning et l'analyse des données. Toujours en quête d'innovation, je développe des solutions intelligentes et travaille sur divers projets liés à la **science des données, au développement backend, et au cloud computing**.
