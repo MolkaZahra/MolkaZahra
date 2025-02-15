@@ -1,6 +1,6 @@
 # 💻 Molka Zahra - Junior Data Science Engineer 
 
-![Sticker de développeur](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzk1ZGRsZXQwaWMwNTB3anNpaDBzdzdqMDRxOGZ1eWZnNG53eWV2aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xYPdnwsRPZDhCxXvOi/giphy.gif)
+![Sticker de développeur](https://giphy.com/gifs/PizzaNinjas-programmer-pizza-ninjas-pizzaninjas-78XCFBGOlS6keY1Bil)
 
 🌍 **Bienvenue sur mon GitHub !**  
 Je suis une ingénieure en Data Science passionnée par l'intelligence artificielle, le Machine Learning, le Deep Learning et l'analyse des données. Toujours en quête d'innovation, je développe des solutions intelligentes et travaille sur divers projets liés à la **science des données**.
